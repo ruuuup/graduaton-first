@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText":"每日摄入",
+  "usingComponents": {
+    "i-progress": "../../static/iview/dist/progress/index",
+    "i-tab": "../../static/iview/dist/tabs/index",
+    "i-tab": "../../static/iview/dist/tab/index",
+    "i-card": "../../static/iview/dist/card/index",
+    "i-panel": "../../static/iview/dist/panel/index",
+    "i-button": "../../static/iview/dist/button/index",
+    "i-cell": "../../static/iview/dist/cell/index",
+    "i-icon": "../../static/iview/dist/icon/index",
+    "i-modal": "../../static/iview/dist/modal/index"
+  }
+}
